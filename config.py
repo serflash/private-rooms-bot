@@ -1,4 +1,4 @@
-token = 'your_bot_token_here'
+token = 'MTI3MDQ0Mzc0MDM4NDk4OTMxNQ.Gmtaj_.B2wHx4H2NQnGCgOa-omcVyT7ukrO7sOVwtPpE8'
 guild_id = 0 # ID Сервера
 
 category_id = 0 # ID Категории в котором находятся private_control_id и create_private_chan_id
